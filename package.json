@@ -1,13 +1,17 @@
 {
   "name": "@riodevnet/nodescraper",
   "version": "1.0.0",
-  "description": "",
+  "description": "NodeScraper is a fast and flexible Node.js web scraping toolkit built using Axios and Cheerio. It provides an intuitive interface for extracting structured HTML and metadata from websites — with clean and consistent outputs.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "nodescraper",
+    "scraper",
+    "scraping"
+  ],
+  "author": "Rio Agung Purnomo",
   "license": "MIT",
   "type": "commonjs",
   "dependencies": {
